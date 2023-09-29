@@ -1,0 +1,39 @@
+data.object
+	Any value but "error"
+data.all_parts
+	ipairs table: 'part' (Let's leave this empty for now)
+	part.component
+	part.type_line
+	part.component
+	part.name
+	part.id
+	part.uri
+data.object
+data.all_parts
+data.layout
+data.type_line
+data.id
+data.oracle_id
+data.lang
+data.set
+data.collector_number
+data.card_faces
+data.highres_image
+data.image_status
+data.cmc
+
+	Converted Mana Cost
+
+cardData.card
+cardData.card_faces
+cardData.cmc
+cardData.highres_image
+cardData.image_status
+cardData.image_uris
+cardData.loyalty
+cardData.name
+cardData.oracle_text
+cardData.power
+cardData.quantity
+cardData.toughness
+cardData.type_line

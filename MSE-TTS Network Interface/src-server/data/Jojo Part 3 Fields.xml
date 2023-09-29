@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name></name>
+<longname></longname>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Airplane</name>
+ <set picURL="/Airplane.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Indoors
+Tight Quarters (There is no Back Line)
+
+Civilians</text>
+</card>
+<card>
+ <name>Arabian Desert</name>
+ <set picURL="/Arabian Desert.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Isolated Locale (All characters must Escape to dispel)</text>
+</card>
+<card>
+ <name>Aswan</name>
+ <set picURL="/Aswan.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Cairo Café</name>
+ <set picURL="/Cairo Café.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>(TODO)
+</text>
+</card>
+<card>
+ <name>Cairo Rooftops</name>
+ <set picURL="/Cairo Rooftops.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Urban
+Long Drop (Characters that are Thrown Fall Fatally)</text>
+</card>
+<card>
+ <name>Captain Tenille's Ship</name>
+ <set picURL="/Captain Tenille's Ship.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Offshore (Escaped characters become Isolated instead, and enter Water)</text>
+</card>
+<card>
+ <name>Downtown Cairo</name>
+ <set picURL="/Downtown Cairo.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Urban
+Civilians</text>
+</card>
+<card>
+ <name>Egyptian Deeps</name>
+ <set picURL="/Egyptian Deeps.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Underwater
+Long Distance (TODO, see Road to Pakistan)
+
+Well Equipped: Characters enter with Scuba Gear that grants Breath
+</text>
+</card>
+<card>
+ <name>Egyptian Desert</name>
+ <set picURL="/Egyptian Desert.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Isolated Locale (All characters must Escape to dispel)
+Remote (No action that creates Civilians can be taken)</text>
+</card>
+<card>
+ <name>Enya's Town</name>
+ <set picURL="/Enya's Town.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Lesser Urban
+Civilians</text>
+</card>
+<card>
+ <name>Hotel Room</name>
+ <set picURL="/Hotel Room.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Indoors
+Tight Quarters
+
+Mirrors
+Appliances (Electric)
+1 Bed (Heavy)</text>
+</card>
+<card>
+ <name>Indian Town</name>
+ <set picURL="/Indian Town.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Lesser Urban
+Civilians
+Crowded (Characters enter Isolated)</text>
+</card>
+<card>
+ <name>Island Detour</name>
+ <set picURL="/Island Detour.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Coastal (Characters may Move to Isolate and enter Water)
+Remote (No action that creates Civilians can be taken)</text>
+</card>
+<card>
+ <name>Karachi</name>
+ <set picURL="/Karachi.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Urban
+Civilians
+Police Presence
+Children at Play (TODO Civilians available for slaughter)</text>
+</card>
+<card>
+ <name>Kom Ombo Temple</name>
+ <set picURL="/Kom Ombo Temple.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Nearby Town: May replace with a Lesser Urban card with one character escaped.
+
+Pillars (Massive Objects; Cover)</text>
+</card>
+<card>
+ <name>Kom Ombo Town</name>
+ <set picURL="/Kom Ombo Town.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Lesser Urban
+Civilians
+Police Presence
+Riverside (Characters may Move to Isolate and enter Water)</text>
+</card>
+<card>
+ <name>Luxor</name>
+ <set picURL="/Luxor.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Urban
+Civilians
+Train Tracks (Metal)</text>
+</card>
+<card>
+ <name>Nearby Water</name>
+ <set picURL="/Nearby Water.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field Modifier</type>
+ <tablerow>1</tablerow>
+ <text>Characters may Move to enter Water.
+
+Water is present.</text>
+</card>
+<card>
+ <name>Nighttime</name>
+ <set picURL="/Nighttime.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field Modifier</type>
+ <tablerow>1</tablerow>
+ <text>The field does not produce Sunlight from being Outdoors.</text>
+</card>
+<card>
+ <name>Road to Pakistan</name>
+ <set picURL="/Road to Pakistan.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Long Distance (TODO: Track distance along field)
+Remote (No civilians? TODO)</text>
+</card>
+<card>
+ <name>School Nurse's Office</name>
+ <set picURL="/School Nurse's Office.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Indoors
+Tight Quarters (There is no Back Line)
+Limited Access (Anonymous Disguises downgrade to Civilian)
+</text>
+</card>
+<card>
+ <name>Singapore</name>
+ <set picURL="/Singapore.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Urban
+Civilians
+Coastal (Characters may Move to Isolate and enter Water)
+</text>
+</card>
+<card>
+ <name>Tiger Balm Garden</name>
+ <set picURL="/Tiger Balm Garden.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Statues (Heavy Object)</text>
+</card>
+<card>
+ <name>United Arab Emirates</name>
+ <set picURL="/United Arab Emirates.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Urban
+Empty Streets
+Vehicles for Purchase (May play a Mount card for free; Once per player)</text>
+</card>
+<card>
+ <name>Varanasi</name>
+ <set picURL="/Varanasi.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Urban
+Civilians
+Crowded (Characters enter Isolated)
+Police Presence (TODO: Spawn police on kill)</text>
+</card>
+<card>
+ <name>Yarpline</name>
+ <set picURL="/Yarpline.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>Lesser Urban
+Odd Strangers (May play a disguised character for free; once per player)</text>
+</card>
+
+</cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,12 @@
+(NOTE: It may be necessary to change the BINDING_IP in src_server/tuning.lua)
+(If the program does not work at first, try changing the ip to your computer's local IPv4 address)
+*Place Cockatrice exports of MSE sets in src-server/data
+*Place set images in src-server/images/my_set_name
+	(NOTE: For now, set names must not contain whitespace. Set names must match between the images folder and the data folder)
+	(OTHER NOTE: Ignore the whitespace constraint)
+*Run _runc.bat, and leave the program open
+*Load up TTS MTG Importer
+*Paste the contents of Modified-Importer.lua into the Scripting interface, where you see the existing importer script
+	(You may have to click around; the interface doesn't open to the relevant script)
+*Import the deck through whichever method you like
+*You can now close the MTNI if you like.

@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name></name>
+<longname></longname>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Clash of Titans</name>
+ <set picURL="/Clash of Titans.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost>S</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Chosen ally of S or higher power attacks target enemy of S or higher power. Cannot be dodged.)</text>
+</card>
+<card>
+ <name>Fateful Reunion</name>
+ <set picURL="/Fateful Reunion.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost>S</manacost>
+ <type>Event</type>
+ <tablerow>1</tablerow>
+ <text>(Cast from ally)
+(Bring any character (ignore Disguises) to this location. Reveal if Hidden)</text>
+</card>
+<card>
+ <name>A Hasty Purchase</name>
+ <set picURL="/A Hasty Purchase.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Mount Object</type>
+ <tablerow>1</tablerow>
+ <text>(Joseph’s Truck during WORLD fight)</text>
+</card>
+<card>
+ <name>Passing Car</name>
+ <set picURL="/Passing Car.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Event</type>
+ <tablerow>1</tablerow>
+ <text>(Use in an Urban environment)
+(Create a Car Mount that is Escaping.)</text>
+</card>
+<card>
+ <name>PLACEHOLDER: Darby Jr Fight</name>
+ <set picURL="/PLACEHOLDER: Darby Jr Fight.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>PLACEHOLDER: Mariah Fight</name>
+ <set picURL="/PLACEHOLDER: Mariah Fight.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Police Interference</name>
+ <set picURL="/Police Interference.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Event</type>
+ <tablerow>1</tablerow>
+ <text>(Use when appropriate)
+(Target character is Immobilized until this player’s next turn. May force target to perform an Interact)
+(At start, or at end??)</text>
+</card>
+<card>
+ <name>River Burial</name>
+ <set picURL="/River Burial.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Event</type>
+ <tablerow>1</tablerow>
+ <text>(Use when a character dies or a thrown object misses. Exile the relevant target)</text>
+</card>
+<card>
+ <name>Road Roller</name>
+ <set picURL="/Road Roller.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Object</type>
+ <tablerow>1</tablerow>
+ <text>(Urban)
+(Massive Weight)</text>
+</card>
+<card>
+ <name>Shotgun</name>
+ <set picURL="/Shotgun.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Object</type>
+ <tablerow>1</tablerow>
+ <text>(Ranged Attack. Limited effectiveness)</text>
+</card>
+<card>
+ <name>So It's the Same Type Of Stand</name>
+ <set picURL="/So It's the Same Type Of Stand.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost>S</manacost>
+ <type>Story</type>
+ <tablerow>1</tablerow>
+ <text>(Choose an ally and enemy, both Stand Users, who are fighting. The ally must have Knowledge of the enemy’s Stand)
+(II - The ally gains the enemy’s Stand ability)</text>
+</card>
+<card>
+ <name>Stolen Motorcycle</name>
+ <set picURL="/Stolen Motorcycle.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Mount Object</type>
+ <tablerow>1</tablerow>
+ <text>(Play to a character without Buffoon or Child)</text>
+</card>
+<card>
+ <name>Cry For Help</name>
+ <set picURL="/Cry For Help.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Alert ally? Unclear mechanic)
+(Polnareff during Alessi)</text>
+</card>
+<card>
+ <name>Desperate Locomotion</name>
+ <set picURL="/Desperate Locomotion.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Field Modifier</type>
+ <tablerow>1</tablerow>
+ <text>(Find better name?)
+(Use in an Urban field. All Stand Users may move as if Mounted as long as they are in an urban environment.)
+(Qualify so inappropriate Stands can’t?)</text>
+</card>
+<card>
+ <name>Desperate Warning</name>
+ <set picURL="/Desperate Warning.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Communicate Knowledge to target ally.)
+(Knowledge is yet Undefined)</text>
+</card>
+<card>
+ <name>Dying Discovery</name>
+ <set picURL="/Dying Discovery.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Use when a Strategist dies. Gain Knowledge of an opponent’s Stand, and communicate it to target ally)
+(Knowledge as a mechanic does not yet exist)</text>
+</card>
+<card>
+ <name>Group Photo</name>
+ <set picURL="/Group Photo.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Object</type>
+ <tablerow>1</tablerow>
+ <text>(Play when you have 5+ allies in play. Gain mana. Holder has Resolve if it is one of the allies that was present.)</text>
+</card>
+<card>
+ <name>Heroic Pull</name>
+ <set picURL="/Heroic Pull.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Cast from a damaged ally. Target ally Moves, and may successfully dodge. Sacrifice caster)</text>
+</card>
+<card>
+ <name>Heroic Tackle (Alternate)</name>
+ <set picURL="/Heroic Tackle (Alternate).full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Sacrifice unit; prevent attack on ally)</text>
+</card>
+<card>
+ <name>Malena's Care</name>
+ <set picURL="/Malena's Care.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Event</type>
+ <tablerow>1</tablerow>
+ <text>(Use on injured character. Fully heal, and create Civilian. Vulnerable?)</text>
+</card>
+<card>
+ <name>Miraculous Blood Transplant</name>
+ <set picURL="/Miraculous Blood Transplant.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Use when a vampire’s corpse is in close range. Revive ally corpse.)</text>
+</card>
+<card>
+ <name>Narrow Escape</name>
+ <set picURL="/Narrow Escape.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Dodge incoming attack)
+(New name, to differentiate from Escape?)</text>
+</card>
+<card>
+ <name>Party Trick</name>
+ <set picURL="/Party Trick.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Target ally. Gain mana. If target is owned by an opponent, they become Terrified)</text>
+</card>
+<card>
+ <name>Reinforcements</name>
+ <set picURL="/Reinforcements.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Event</type>
+ <tablerow>1</tablerow>
+ <text>(Summon Ally with haste)</text>
+</card>
+<card>
+ <name>What Will Happen?</name>
+ <set picURL="/What Will Happen?.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Event</type>
+ <tablerow>1</tablerow>
+ <text>(Target ally; Pick at random: Successfully avoid incoming attack; Summon or Call any number of allies to target ally, and nullify incoming attack; Do not block the attack, and any damage from it is lethal)</text>
+</card>
+<card>
+ <name>Blind</name>
+ <set picURL="/Blind.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Play on successful attack. Blind defender)</text>
+</card>
+<card>
+ <name>Brutal Killing</name>
+ <set picURL="/Brutal Killing.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Use when an enemy is killed by an ally. Enrage any enemies present.)</text>
+</card>
+<card>
+ <name>Close Shave</name>
+ <set picURL="/Close Shave.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Use when disguised; Gain attack of opportunity)
+(Niche due to being already disguised)</text>
+</card>
+<card>
+ <name>Escape to the Sewers</name>
+ <set picURL="/Escape to the Sewers.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(This character may escape if they can Move at all, unless they are Intercepted)</text>
+</card>
+<card>
+ <name>Helpful Saleswoman</name>
+ <set picURL="/Helpful Saleswoman.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Event</type>
+ <tablerow>1</tablerow>
+ <text>(Use from ally)
+(If this character’s Limb is severed, retrieve it. Create a Civilian, then this character murders it.)</text>
+</card>
+<card>
+ <name>Idolatrous Rage</name>
+ <set picURL="/Idolatrous Rage.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Play when a Comrade Disguise is Revealed. You may attack the source of the Disguise any number of times until they do not take damage.)
+(Needs clarification)</text>
+</card>
+<card>
+ <name>Inscription of Doom</name>
+ <set picURL="/Inscription of Doom.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Field Modifier?)
+(Gain Attack of Opportunity against up to two target enemies)</text>
+</card>
+<card>
+ <name>Knowledge of Ally</name>
+ <set picURL="/Knowledge of Ally.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Reveal a Comrade Disguise directed towards you)</text>
+</card>
+<card>
+ <name>Near Miss</name>
+ <set picURL="/Near Miss.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Use when this character would suffer fatal damage. Prevent this damage, and gain an Attack of Opportunity on the attacker.)
+(Polnareff attacks DIO)</text>
+</card>
+<card>
+ <name>Righteous Slaughter</name>
+ <set picURL="/Righteous Slaughter.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Chaka on dad)</text>
+</card>
+<card>
+ <name>Senator Phillips</name>
+ <set picURL="/Senator Phillips.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Story</type>
+ <tablerow>1</tablerow>
+ <text>(Use in City; Choose ally)
+(I - Create a Civilian grouped with the ally, with “Anyone in this unit’s group has Mounted”.
+II - Summon X civilians, then kill them.
+III - The civilian gains “Sacrifice: Destroy target source of Mount”)</text>
+</card>
+<card>
+ <name>Toth's Predictions</name>
+ <set picURL="/Toth's Predictions.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Story</type>
+ <tablerow>1</tablerow>
+ <text>(Fuck shit up, fate style)</text>
+</card>
+<card>
+ <name>Willing Sacrifices</name>
+ <set picURL="/Willing Sacrifices.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Event</type>
+ <tablerow>1</tablerow>
+ <text>(Fully heal a Vampire character)</text>
+</card>
+<card>
+ <name>Zealous Sacrifice</name>
+ <set picURL="/Zealous Sacrifice.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Sacrifice ally, gain mana)
+(Limit to high power?)</text>
+</card>
+<card>
+ <name>Clever Hiding Spot</name>
+ <set picURL="/Clever Hiding Spot.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Use when a Mirror is available. Gain Hidden Disguise)</text>
+</card>
+<card>
+ <name>Coffee Flavored Gum</name>
+ <set picURL="/Coffee Flavored Gum.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Object</type>
+ <tablerow>1</tablerow>
+ <text>(Consume to call ally to current position?)</text>
+</card>
+<card>
+ <name>Four Iced Teas</name>
+ <set picURL="/Four Iced Teas.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Target 2-4 allies. Refresh targets. Gain mana)</text>
+</card>
+<card>
+ <name>Fun with Magnets</name>
+ <set picURL="/Fun with Magnets.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Trickery</type>
+ <tablerow>1</tablerow>
+ <text>(Secret?)
+(Apply to ally)
+(When this character is next attacked with Melee, abort that attack. The attacker may no longer act this turn. Discard this card.)</text>
+</card>
+<card>
+ <name>Improvised Armor</name>
+ <set picURL="/Improvised Armor.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Trickery</type>
+ <tablerow>1</tablerow>
+ <text>(Secret?)
+(When this character is next hit with any number of projectile attacks, reduce the total damage to Minimal. Discard this card.)
+(Minimal means on-hit effects trigger, but no crippling)</text>
+</card>
+<card>
+ <name>Look, Don't Touch</name>
+ <set picURL="/Look Don't Touch.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Event</type>
+ <tablerow>1</tablerow>
+ <text>(Force target character to Interact)</text>
+</card>
+<card>
+ <name>Reveal Position</name>
+ <set picURL="/Reveal Position.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Play from character with long range ability or designation. Reveal target unit’s position with Sound)
+(Geb with The Fool’s Glider)</text>
+</card>
+<card>
+ <name>Revealing Air</name>
+ <set picURL="/Revealing Air.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Reveal Hidden or Invisible character)
+(Field Modifier?)</text>
+</card>
+<card>
+ <name>Self-Serving Betrayal</name>
+ <set picURL="/Self-Serving Betrayal.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Target enemy character attacks target ally that they can. If the defender takes damage from the attack, gain control of the attacker.)</text>
+</card>
+<card>
+ <name>Vile Distraction</name>
+ <set picURL="/Vile Distraction.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Interrupt an action. Some kind of limit?)
+(Polnareff in the tub)</text>
+</card>
+<card>
+ <name>Ambush</name>
+ <set picURL="/Ambush.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(What is the constraint?)
+(Attack of opportunity; On all?)</text>
+</card>
+<card>
+ <name>Ascend the Stairs</name>
+ <set picURL="/Ascend the Stairs.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(How to do this?)</text>
+</card>
+<card>
+ <name>Bad Attitude</name>
+ <set picURL="/Bad Attitude.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>WB</manacost>
+ <type>Character Modifier</type>
+ <tablerow>1</tablerow>
+ <text>(Play to enemy; Target cannot act to help allies)
+(Must defend self?)</text>
+</card>
+<card>
+ <name>By Any Means</name>
+ <set picURL="/By Any Means.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Use when injured)
+(Blind target enemy in close range)</text>
+</card>
+<card>
+ <name>Claustophobic Car Ride</name>
+ <set picURL="/Claustophobic Car Ride.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>GW</manacost>
+ <type>Mount</type>
+ <tablerow>1</tablerow>
+ <text>(Target any number of allies. These allies are Grouped until this players next upkeep)
+(Mount)</text>
+</card>
+<card>
+ <name>Coward's Burial</name>
+ <set picURL="/Coward's Burial.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Nukesaku in coffin)</text>
+</card>
+<card>
+ <name>Fake Death</name>
+ <set picURL="/Fake Death.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>GW</manacost>
+ <type>Disguise Character Modifier</type>
+ <tablerow>1</tablerow>
+ <text>(Use upon character taking damage. This character gains Faking Death Disguise.)
+(This Disguise starts with one charge counter.
+Remove one charge counter: Taunt and Interrupt target enemy)</text>
+</card>
+<card>
+ <name>A Familiar Street</name>
+ <set picURL="/A Familiar Street.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Event</type>
+ <tablerow>1</tablerow>
+ <text>(Use in an Urban Environment, when Moving or being Moved)
+(Arrive at a location of your choice)
+(Needs clarification. This would allow the retrieval of a corpse, but what else?)</text>
+</card>
+<card>
+ <name>Flanking Maneuver</name>
+ <set picURL="/Flanking Maneuver.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>GW</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Isolate up to two allies. As long as there are more non-Isolated allies than fighting enemies, the Isolated allies are Hidden and gain Attack of Opportunity on any enemy)
+(Dispelling Hidden removes them from this effect)</text>
+</card>
+<card>
+ <name>Heart Stopper</name>
+ <set picURL="/Heart Stopper.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>GW</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Enhance Faking Death Disguise; It cannot be Dispelled)
+(Very niche right now)</text>
+</card>
+<card>
+ <name>Leap to Safety</name>
+ <set picURL="/Leap to Safety.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Any number of allies Escape)</text>
+</card>
+<card>
+ <name>Proper Motivation</name>
+ <set picURL="/Proper Motivation.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>GW</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Target ally and user are Grouped)</text>
+</card>
+<card>
+ <name>Sinking Car</name>
+ <set picURL="/Sinking Car.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>GW</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(New name?)
+(Provides shelter from the ground or something)</text>
+</card>
+
+</cards>
+</cockatrice_carddatabase>

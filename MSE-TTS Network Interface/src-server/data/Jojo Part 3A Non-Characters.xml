@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name></name>
+<longname></longname>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Conspicuous Purchase</name>
+ <set picURL="/Conspicuous Purchase.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Field</type>
+ <tablerow>1</tablerow>
+ <text>(Submarine. How to do this?)</text>
+</card>
+<card>
+ <name>Pack of Camels</name>
+ <set picURL="/Pack of Camels.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Create a Mount for any number of target allies)</text>
+</card>
+<card>
+ <name>Placeholder {Death Thirteen}</name>
+ <set picURL="/Placeholder {Death Thirteen}.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>()</text>
+</card>
+<card>
+ <name>Placeholder {Rubber Soul}</name>
+ <set picURL="/Placeholder {Rubber Soul}.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>()</text>
+</card>
+<card>
+ <name>Underground Shelter</name>
+ <set picURL="/Underground Shelter.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Use with character of sufficient strength. Add Shelter field mod)
+(Protects from the elements)</text>
+</card>
+<card>
+ <name>Declaration of Resolve</name>
+ <set picURL="/Declaration of Resolve.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Clear rage on ally; Declare target; kill this turn to gain mana)</text>
+</card>
+<card>
+ <name>Evil Spirit</name>
+ <set picURL="/Evil Spirit.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Bring a stand user an item)</text>
+</card>
+<card>
+ <name>Heroic Tackle</name>
+ <set picURL="/Heroic Tackle.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Sacrifice unit; prevent attack on ally)</text>
+</card>
+<card>
+ <name>Informative Hand Signals</name>
+ <set picURL="/Informative Hand Signals.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Use when two humanoid allies are not in combat. Gain mana)
+(Alternative: Enhance communication?)</text>
+</card>
+<card>
+ <name>Laughing Madness</name>
+ <set picURL="/Laughing Madness.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Use on ally when experiencing Heat. Reveal target disguise.)</text>
+</card>
+<card>
+ <name>Quest for Revenge</name>
+ <set picURL="/Quest for Revenge.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Object</type>
+ <tablerow>1</tablerow>
+ <text>(Polnareff’s Sister)
+(Vendetta; may name enemy; may enrage on sight)</text>
+</card>
+<card>
+ <name>Revealing Photo</name>
+ <set picURL="/Revealing Photo.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Character Modifier</type>
+ <tablerow>1</tablerow>
+ <text>(Target high cost enemy? Gain fate)</text>
+</card>
+<card>
+ <name>Risky Surgery</name>
+ <set picURL="/Risky Surgery.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Character Modifier</type>
+ <tablerow>1</tablerow>
+ <text>(Remove flesh bud; todo concept)</text>
+</card>
+<card>
+ <name>Yes, I am!</name>
+ <set picURL="/Yes I am!.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Action </type>
+ <tablerow>1</tablerow>
+ <text>(Play when an ally returns from the dead. Gain mana)</text>
+</card>
+<card>
+ <name>Debt of Pain</name>
+ <set picURL="/Debt of Pain.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Object</type>
+ <tablerow>1</tablerow>
+ <text>(Choose a target enemy. Every time you are Enraged, add a counter. Spend a counter: Attack of opportunity against the target)
+(Kill target, gain mana)</text>
+</card>
+<card>
+ <name>Enraging Taunt</name>
+ <set picURL="/Enraging Taunt.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Hanged man in mirror)
+(Enrage enemy; Prevent assist)</text>
+</card>
+<card>
+ <name>Fire Clock</name>
+ <set picURL="/Fire Clock.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Object</type>
+ <tablerow>1</tablerow>
+ <text>(Progress counter counts down; Kill declared target before to gain mana)</text>
+</card>
+<card>
+ <name>Flesh Bud</name>
+ <set picURL="/Flesh Bud.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character Modifier</type>
+ <tablerow>1</tablerow>
+ <text>(Steal control of unit; play on defeat of unit)</text>
+</card>
+<card>
+ <name>Forboding Hankerchief</name>
+ <set picURL="/Forboding Hankerchief.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character Modifier</type>
+ <tablerow>1</tablerow>
+ <text>(Declare killer and victim; grants mana)</text>
+</card>
+<card>
+ <name>Holly's Curse</name>
+ <set picURL="/Holly's Curse.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character Modifier</type>
+ <tablerow>1</tablerow>
+ <text>(???)</text>
+</card>
+<card>
+ <name>Humiliation</name>
+ <set picURL="/Humiliation.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Give attack of opportunity, and Enrage)</text>
+</card>
+<card>
+ <name>Kebab Salesman</name>
+ <set picURL="/Kebab Salesman.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Disguise</type>
+ <tablerow>1</tablerow>
+ <text>Civilian Disguise</text>
+</card>
+<card>
+ <name>No Prisoners</name>
+ <set picURL="/No Prisoners.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Sacrifice captured ally)</text>
+</card>
+<card>
+ <name>Promise of Massacre</name>
+ <set picURL="/Promise of Massacre.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character Modifier</type>
+ <tablerow>1</tablerow>
+ <text>(Play on inflicted damage; inflict fear? gain mana?)</text>
+</card>
+<card>
+ <name>Sacrificial Dagger</name>
+ <set picURL="/Sacrificial Dagger.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Object</type>
+ <tablerow>1</tablerow>
+ <text>(Play on burning enemy to gain mana; enemy may sacrifice to gain mana)
+(Avdol to Polnareff)</text>
+</card>
+<card>
+ <name>Throwing Knife</name>
+ <set picURL="/Throwing Knife.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Object</type>
+ <tablerow>1</tablerow>
+ <text>(Throw to damage; target may not move until it is removed)</text>
+</card>
+<card>
+ <name>Center of Attention</name>
+ <set picURL="/Center of Attention.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Create coin;Enemy characters of low cost can only perceive it this phase, and nothing else)</text>
+</card>
+<card>
+ <name>Cigarette Smoke Gambit</name>
+ <set picURL="/Cigarette Smoke Gambit.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Object</type>
+ <tablerow>1</tablerow>
+ <text>(Reveal stand user disguise)</text>
+</card>
+<card>
+ <name>Fake Name</name>
+ <set picURL="/Fake Name.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Character Modifier</type>
+ <tablerow>1</tablerow>
+ <text>(Target ally may Interact with target enemy to dispel any non-anonymous disguise but Comrade. Consumes this card)</text>
+</card>
+<card>
+ <name>Hostage</name>
+ <set picURL="/Hostage.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Object</type>
+ <tablerow>1</tablerow>
+ <text>(Captain Dragon and Anne)
+(?)</text>
+</card>
+<card>
+ <name>Incriminating Setup</name>
+ <set picURL="/Incriminating Setup.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Use from character that cannot be seen but can speak; target enemy is Isolated as long as he is Engaged)</text>
+</card>
+<card>
+ <name>Portentious Painting</name>
+ <set picURL="/Portentious Painting.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Character Modifier</type>
+ <tablerow>1</tablerow>
+ <text>(Simple disguise; break on attack)</text>
+</card>
+<card>
+ <name>Promise of Coin</name>
+ <set picURL="/Promise of Coin.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Create token Civilian character which will suffer every ranged or aoe attack)</text>
+</card>
+<card>
+ <name>Toth's Predictions</name>
+ <set picURL="/Toth's Predictions.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Story</type>
+ <tablerow>1</tablerow>
+ <text>(Fuck shit up, fate style)</text>
+</card>
+<card>
+ <name>Underground Hideout</name>
+ <set picURL="/Underground Hideout.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Character Modifier</type>
+ <tablerow>1</tablerow>
+ <text>(Hidden and Underground. ) </text>
+</card>
+<card>
+ <name>Underground Hideout</name>
+ <set picURL="/Underground Hideout.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Character Modifier</type>
+ <tablerow>1</tablerow>
+ <text>Attached unit is Underground, and has a Hidden Disguise.
+
+When the attached unit is no longer underground, remove this card.</text>
+</card>
+<card>
+ <name>Wounded Decoy</name>
+ <set picURL="/Wounded Decoy.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Gain Decoy disguise, which guarantees dodge and react once, then disappears)
+(Maybe disappear on user targeted?)</text>
+</card>
+<card>
+ <name>Betrayal</name>
+ <set picURL="/Betrayal.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>?
+(Attack of opportunity against ally)</text>
+</card>
+<card>
+ <name>Necessary Deception</name>
+ <set picURL="/Necessary Deception.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>GW</manacost>
+ <type>Action</type>
+ <tablerow>1</tablerow>
+ <text>(Revive character that was not obliterated)</text>
+</card>
+<card>
+ <name>Three Wishes</name>
+ <set picURL="/Three Wishes.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Story</type>
+ <tablerow>1</tablerow>
+ <text>(Polnareff and Cameo. Start with Oil Lamp?)</text>
+</card>
+
+</cards>
+</cockatrice_carddatabase>

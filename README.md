@@ -17,6 +17,13 @@ Left Click - Select Units.
 Right Click - Move. Hold to show path.
 Shift + Left Click - Show Tile Information
 
+#### MSE-TTS Network Interface
+A tool for presenting MSE card set exports to a Tabletop Simulator importer script, using a local server.
+
+MSE is a program for designing custom Magic: The Gathering cards. This tool uses a slightly modified version of an importer script, which collects data for a MTG deck and spawns objects to represent it into Tabletop Simulator. The script exclusively downloads information from a remote source, so this tool reformats the exports from MSE and presents them on a local server that the importer can access.
+
+See INSTRUCTIONS.txt for operating instructions.]
+
 #### Hacking
 A simple UI proof-of-concept for a hacking game. Mousing over a node plays an animation, and displays an IP address.
 

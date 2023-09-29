@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name></name>
+<longname></longname>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Heirophant Green</name>
+ <set picURL="/Heirophant Green.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Character - Mid Range Stand</type>
+ <tablerow>1</tablerow>
+ <text>QR: Ranged, Mid-Range
+Q: Dispel any non-anonymous Disguise in the field.
+Q2UR: Become a Trap with Invisibility. Anyone who moves in this field may be attacked by Heirophant Green at no cost.</text>
+</card>
+<card>
+ <name>Jean Pierre Polnareff</name>
+ <set picURL="/Jean Pierre Polnareff.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text>Buffoon</text>
+</card>
+<card>
+ <name>Jotaro Kujoh</name>
+ <set picURL="/Jotaro Kujoh.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>SW</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text>Strategist</text>
+</card>
+<card>
+ <name>Muhammad Avdol</name>
+ <set picURL="/Muhammad Avdol.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text>(Something with Fortune Telling? Or Emotional?)</text>
+</card>
+<card>
+ <name>Noriaki Kakyoin</name>
+ <set picURL="/Noriaki Kakyoin.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text>Strategist</text>
+</card>
+<card>
+ <name>Silver Chariot (SC)</name>
+ <set picURL="/Silver Chariot (SC).full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Character - Close Range Stand</type>
+ <tablerow>1</tablerow>
+ <text>First Strike
+May Redirect any ranged attack it can block against.
+Q: Gain +1/0/-1. Recast to remove. May not recast this turn.
+B: Suprise Ranged, Mid Range
+Projectile Persists. Silver Chariot may not attack or block until it is Retrieved. Disappears when Silver Chariot leaves the field.</text>
+</card>
+<card>
+ <name>Star Platinum (SC)</name>
+ <set picURL="/Star Platinum (SC).full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>SW</manacost>
+ <type>Character - Close Range Stand</type>
+ <tablerow>1</tablerow>
+ <text>Enhanced Vision
+Attack Rush
+SU: Unblockable Ranged, Close Range
+Use only when Star Platinum is Immobilized
+
+</text>
+</card>
+<card>
+ <name>Arabia Fats</name>
+ <set picURL="/Arabia Fats.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Cameo</name>
+ <set picURL="/Cameo.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text>(Trickster)</text>
+</card>
+<card>
+ <name>Captain Dragon</name>
+ <set picURL="/Captain Dragon.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Captain Tenille</name>
+ <set picURL="/Captain Tenille.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Deep Blue Moon</name>
+ <set picURL="/Deep Blue Moon.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Close Range Stand</type>
+ <tablerow>1</tablerow>
+ <text>While Deep Blue Moon is in Water, gain +1/0/+1, and May forcibly move my attacked target.
+
+B: Target, Close Range
+Attach Barnacles to target character, applying 0/-1/-1.
+
+BBR: All characters in combat or entering combat this turn take Unblockable Damage, and cannot Retreat.</text>
+</card>
+<card>
+ <name>Devo the Cursed</name>
+ <set picURL="/Devo the Cursed.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>DIO (SC)</name>
+ <set picURL="/DIO (SC).full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>SB</manacost>
+ <type>Character - Vampire Stand User</type>
+ <tablerow>1</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Empress</name>
+ <set picURL="/Empress.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Long Range Stand</type>
+ <tablerow>1</tablerow>
+ <text>Empress must deploy bound to a target unit at Close Range it may not take actions until specified.
+Empress gains a Progress Counter at the start of each turn, and its base Speed, Power, and Toughness are equal to its progress.
+1 — May treat the attached character as a targetable ally.
+2 — May Interact and Attack.
+3 — Gains Unblockable versus the bound unit. If the bound unit dies, gain all suppressed abilities.</text>
+</card>
+<card>
+ <name>Enya the Hag</name>
+ <set picURL="/Enya the Hag.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Forever</name>
+ <set picURL="/Forever.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Orangutan Stand User</type>
+ <tablerow>1</tablerow>
+ <text>(Lecher?)</text>
+</card>
+<card>
+ <name>Geb's N'Doul</name>
+ <set picURL="/Geb's N'Doul.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text>Long Distance Disguise
+
+Blind
+Enhanced Hearing</text>
+</card>
+<card>
+ <name>Gray Fly</name>
+ <set picURL="/Gray Fly.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text>(Deranged?)</text>
+</card>
+<card>
+ <name>Hanged Man</name>
+ <set picURL="/Hanged Man.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Long Range Stand</type>
+ <tablerow>1</tablerow>
+ <text>May bind to any object with Reflective, including a character’s eyes, and Windows.
+While bound, has Immaterial and Unblockable.
+When the bound object becomes invalid, may Move to a new bound object at Rapid speed.
+Can always Dodge an attack, unless the attacker has Knowledge.</text>
+</card>
+<card>
+ <name>Hol Horse</name>
+ <set picURL="/Hol Horse.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text>Buffoon
+</text>
+</card>
+<card>
+ <name>J. Geil</name>
+ <set picURL="/J. Geil.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Justice</name>
+ <set picURL="/Justice.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>SB</manacost>
+ <type>Field - Environment Stand</type>
+ <tablerow>1</tablerow>
+ <text>“Fog”
+
+Whenever a character takes damage, you may take Control of the injured body part.</text>
+</card>
+<card>
+ <name>Mannish Boy</name>
+ <set picURL="/Mannish Boy.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Baby Stand User</type>
+ <tablerow>1</tablerow>
+ <text>(Child)</text>
+</card>
+<card>
+ <name>Midler</name>
+ <set picURL="/Midler.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text>(Lecher?)</text>
+</card>
+<card>
+ <name>Nena</name>
+ <set picURL="/Nena.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Rubber Soul</name>
+ <set picURL="/Rubber Soul.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text>Can always fully block attacks, as long as Rubber Soul can Breathe.</text>
+</card>
+<card>
+ <name>Steely Dan</name>
+ <set picURL="/Steely Dan.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Strength</name>
+ <set picURL="/Strength.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>SB</manacost>
+ <type>Field - Environment Stand</type>
+ <tablerow>1</tablerow>
+ <text>Strength may only be deployed on top of a Water field. It replaces that card while it is on the field.
+
+B: Attack, Long Range
+May pay B to Immobilize defender on hit.</text>
+</card>
+<card>
+ <name>Tower of Gray</name>
+ <set picURL="/Tower of Gray.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Character - Mid Range Stand</type>
+ <tablerow>1</tablerow>
+ <text>Every time Tower of Gray deals damage, it gains a level of Power.</text>
+</card>
+<card>
+ <name>The World</name>
+ <set picURL="/The World.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>SB</manacost>
+ <type>Character - Stand</type>
+ <tablerow>1</tablerow>
+ <text>Attack Rush
+SB: Add an ability counter to The World, equal to Power. While this counter is present, no action may be taken by anyone besides The World, unless it is Immune to Stopped Time. Reduce this counter by one each time The World takes an action.</text>
+</card>
+<card>
+ <name>Anubis</name>
+ <set picURL="/Anubis.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Object Character - Independent Stand</type>
+ <tablerow>1</tablerow>
+ <text>When this object is Interacted with, gain Control of the interacting character as long as they are holding this object.
+Whenever this character is targeted by an enemy ability, is gains the ability to Interrupt that ability, except this time.
+Whenever this character is blocked or blocks, it gains +1 S/P.
+G: Use only when on the ground. Attract an enemy or Civilian, and force them to Grab this object.
+G: Cause the holder to Interact. Use only if they do not have Knowledge of this Stand.</text>
+</card>
+<card>
+ <name>Bastet's Mariah</name>
+ <set picURL="/Bastet's Mariah.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text>May summon a Small Stand Object with “On Interact, apply one stack of Magnetism”.
+Characters with 2+ of Magnetism are Grouped, and their Moves can be Interrupted by enemies.
+Characters take damage each turn for each stack of Magnetism over 2.</text>
+</card>
+<card>
+ <name>Cream</name>
+ <set picURL="/Cream.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Character - Stand</type>
+ <tablerow>1</tablerow>
+ <text>This stand may Devour its user, granting them and itself Immaterial, Hidden, and Blind.
+While devoured, the user can Peek, exposing itself and allowing attacks to be targeted.
+Cream’s Attacks are Unblockable and have Deletion.</text>
+</card>
+<card>
+ <name>Daniel J. Darby</name>
+ <set picURL="/Daniel J. Darby.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Death Thirteen</name>
+ <set picURL="/Death Thirteen.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Character - Stand</type>
+ <tablerow>1</tablerow>
+ <text>When characters start their turn Isolated, Escaped, or Unconscious, they gain a stack of Dreaming. This ability then resolves for all affected characters as a Dreaming phase.
+Dreaming phase - Each character suffers an Attack of Opportunity, with Disadvantage equal to their stacks.
+If a character falls Unconscious with their stand active, it gains Hidden and may act immediately after the Dreaming phase. Death Thirteen may only be attacked during these phases.</text>
+</card>
+<card>
+ <name>Geb</name>
+ <set picURL="/Geb.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Character - Long Range Stand</type>
+ <tablerow>1</tablerow>
+ <text>This Stand is Water.
+
+Piercing
+</text>
+</card>
+<card>
+ <name>High Priestess</name>
+ <set picURL="/High Priestess.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Character - Stand</type>
+ <tablerow>1</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Joseph Joestar (SC)</name>
+ <set picURL="/Joseph Joestar (SC).full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>GW</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text>Hamon User
+QR: Target, Close Range
+Immobilize target unit
+May spend R to deal Unblockable Damage to bound enemy.
+Q: Choose one —
+• Dispel any target Disguise.
+• Create an object from the field, in a random enemy’s backline. The object has an Anonymity disguise, and Joseph has Knowledge of it.
+• Grant Vision of a target until Joseph takes another action.
+</text>
+</card>
+<card>
+ <name>Judgement</name>
+ <set picURL="/Judgement.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Character - Stand</type>
+ <tablerow>1</tablerow>
+ <text>BG: Target enemy. Summon a copy of a dead character, with no abilities. Only one copy per character. The copy has Unblockable against the target. Use once per turn.</text>
+</card>
+<card>
+ <name>Kenny G.</name>
+ <set picURL="/Kenny G..full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text>Tenore Sax - May play and modify Field cards at Instant speed.
+(Expand usual field limits?)</text>
+</card>
+<card>
+ <name>Khnum's Oingo</name>
+ <set picURL="/Khnum's Oingo.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text>G: Choose one:
+- Gain a Comrade Disguise
+- Gain a Civilian Disguise
+(Revise to work with Toth plotline)</text>
+</card>
+<card>
+ <name>The Lovers</name>
+ <set picURL="/The Lovers.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Character - Stand</type>
+ <tablerow>1</tablerow>
+ <text>When unattached, The Lovers may not be targeted without Enhanced Senses.
+
+The Lovers may Attach to a target character, becoming untargetable. Whenever the user takes damage, that much damage +1 is taken by the bound character. Pain counts as 0 damage.
+At the beginning of each turn The Lovers is bound, create a token with Duplicate Disguise, permanently bound to the same character.</text>
+</card>
+<card>
+ <name>Magician's Red</name>
+ <set picURL="/Magician's Red.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>GW</manacost>
+ <type>Character - Close Range Stand</type>
+ <tablerow>1</tablerow>
+ <text>U: Incinerate an incoming ranged attack.
+
+SR: Ranged, Mid Range
+Ignite. May pay G to Redirect any number of times, as long as you have control.
+
+S: Create a Fragile follower that has Reveal all enemy positions.</text>
+</card>
+<card>
+ <name>Pet Shop</name>
+ <set picURL="/Pet Shop.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Character - Animal Stand User</type>
+ <tablerow>1</tablerow>
+ <text>(More text for agility and behavior)
+
+BR: Ranged, Mid Range
+Ice. May spend X additional mana to perform X additional attacks simultaneously.</text>
+</card>
+<card>
+ <name>Set's Alessi</name>
+ <set picURL="/Set's Alessi.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text>Citizen Disguise
+
+BR: Surprise, Close-Range
+No damage. If hit or blocked, the target becomes a D/D/D Child, losing all unique abilities, while this stand is active.
+If the target is already a child, it is Destroyed.
+</text>
+</card>
+<card>
+ <name>The Sun</name>
+ <set picURL="/The Sun.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Field - Environment Stand</type>
+ <tablerow>1</tablerow>
+ <text>Indestructible
+
+At the beginning of each turn, add a progress counter to The Sun. Every character suffers Heat, and takes damage equal to the progress minus their Toughness.</text>
+</card>
+<card>
+ <name>Telence T. Darby</name>
+ <set picURL="/Telence T. Darby.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Character - Stand</type>
+ <tablerow>1</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Thoth's Boingo</name>
+ <set picURL="/Thoth's Boingo.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>SBG</manacost>
+ <type>Character - Human Stand User</type>
+ <tablerow>1</tablerow>
+ <text>(Enhanced Fate?)
+(TODO)</text>
+</card>
+<card>
+ <name>Vanilla Ice</name>
+ <set picURL="/Vanilla Ice.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Character - Vampire Stand User</type>
+ <tablerow>1</tablerow>
+ <text>(Do something with Zealotry?)</text>
+</card>
+<card>
+ <name>Wheel of Fortune</name>
+ <set picURL="/Wheel of Fortune.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Character - Stand</type>
+ <tablerow>1</tablerow>
+ <text></text>
+</card>
+
+</cards>
+</cockatrice_carddatabase>
