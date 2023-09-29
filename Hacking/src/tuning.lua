@@ -1,0 +1,10 @@
+MIN_ZOOM = 0.4
+MAX_ZOOM = 2
+
+TUNING = {
+	DEFAULT_CAMERA_PAN_TIME = 2,
+	CAMERA_MOVE_SPEED = 400 * 2,
+	CAMERA_MIN_SPEED = 10 * 2, --Pixels per second
+
+	NODE_DEFAULT_SIZE = 30 --Pixels
+}
